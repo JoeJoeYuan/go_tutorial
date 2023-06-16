@@ -1,0 +1,23 @@
+# 示例yaml文件
+
+# 定义一个字符串变量
+name: John Doe
+
+# 定义一个整数变量
+age: 30
+
+# 定义一个布尔变量
+is_student: true
+
+# 定义一个列表变量
+hobbies:
+  - reading
+  - hiking
+  - cooking
+
+# 定义一个字典变量
+address:
+  street: 123 Main St
+  city: Anytown
+  state: CA
+  zip_code: 12345
